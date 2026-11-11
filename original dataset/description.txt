@@ -1,0 +1,39 @@
+﻿Column description
+
+- originalTitle: 		Original title, in the original language.
+- runtimeMinutes: 		Primary runtime of the title, in minutes.
+- isAdult: 			Whether or not the title is for adult. 0: non-adult title; 1: adult title.
+- startYear: 			Represents the release year of a title. In the case of TV Series, it is the series start year.
+- endYear: 			TV Series end year.
+- numVotes: 			Number of votes the title has received.
+- numRegions: 	 		The regions number for this version of the title.
+- worstRating: 			Worst title rating.
+- bestRating: 			Best title rating.
+- canHaveEpisodes:		Whether or not the title can have episodes.
+- isRatable: 			Whether or not the title can be rated by users.
+- totalImages:			Total Number of Images for the title within the IMDb title page.
+- totalVideos: 			Total Number of Videos for the title within the IMDb title page.
+- totalCredits:			Total Number of Credits for the title.
+- criticReviewsTotal:		Total Number of Critic Reviews.
+- awardWins:			Number of awards the title won.
+- awardNominationsExcludeWins: 	Number of award nominations excluding wins.
+- titleType:			The type/format of the title (e.g. movie, short, tvseries, tvepisode, video, etc).
+- rating:			IMDB title rating class.
+- ratingCount: 			The total number of user ratings submitted for the title.
+- countryOfOrigin: 		The country where the title was primarily produced.
+- genres: 			The genre(s) associated with the title (e.g., drama, comedy, action).
+- userReviewsTotal  		Total Number of Users Reviews.
+- castNumber: 			Total Number of Cast individuals present within the IMDb title page.
+- CompaniesNumber: 		Total Number of companies that worked for the title.
+- regions:			The regions for this version of the title.
+- averageRating:		Weighted average of all the individual user ratings.
+- externalLinks:		Total Number of External Links the title has within the IMDb page.
+- quotesTotal:			Total Number of quotes the title has within the IMDb page.
+- writerCredits:		Total number of writer credits of the title.
+- directorCredits: 		Total number of director credits of the title.
+- soundMixes:			Technical specification of the sound mixes available for the title.
+
+
+
+
+
